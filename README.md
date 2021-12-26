@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awantikamallick&label=Profile%20views&color=0e75b6&style=flat" alt="awantikamallick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awantikamallick" alt="awantikamallick" /></a> </p>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/17095985-Happy-Holidays")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 - 📫 How to reach me **awantika26rbj@gmail.com**
 
 - ⚡ Fun fact **I believe that I'm a superstar🤐**
