@@ -1,4 +1,4 @@
-[![MasterHead]![banner](https://user-images.githubusercontent.com/84182317/147418600-2b824161-867c-46ad-bf8b-e0e057a54a14.jpg)]
+![banner](https://user-images.githubusercontent.com/84182317/147418600-2b824161-867c-46ad-bf8b-e0e057a54a14.jpg)
 <h1 align="center">Hi 👋, I'm Awantika Mallick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awantikamallick&label=Profile%20views&color=0e75b6&style=flat" alt="awantikamallick" /> </p>
 
