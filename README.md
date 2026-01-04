@@ -28,6 +28,6 @@ Welcome to Awantika's profile!
 
 
 - ⚡ *Fun facts:*
-  - **I love french fries and meeee time.**
+  - **I love french fries and me-time.**
   - **I am great at adulting until I run out of clean spoons.**
   - **95% introvert, 5% segmentation fault of charisma.**
